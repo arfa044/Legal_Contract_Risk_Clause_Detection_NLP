@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Model and dataset files
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Temporary files
+*.log

@@ -1,0 +1,51 @@
+text,label
+The customer must pay all invoices within 15 days. Late payments incur a penalty of 8 percent per month.,payment_risk
+The vendor may charge additional fees at its sole discretion without prior notice.,payment_risk
+Payment is due immediately and all deposits are non-refundable in every circumstance.,payment_risk
+The client shall pay an unspecified service fee when requested by the provider.,payment_risk
+"The buyer must pay a penalty for any delay, with no maximum amount stated.",payment_risk
+"All invoices are payable within 30 days of receipt, and disputed amounts may be discussed in writing.",payment_risk
+The provider can increase prices at any time without informing the customer.,payment_risk
+The customer is responsible for all collection costs and late charges of any amount.,payment_risk
+The customer shall pay the agreed monthly fee on the first day of each month.,payment_risk
+The service fee and payment due date are not specified in this agreement.,payment_risk
+The provider may terminate this agreement at any time without notice or reason.,termination_risk
+The company can cancel the contract immediately while the customer has no termination right.,termination_risk
+Either party may terminate at any time without advance notice or an opportunity to cure a breach.,termination_risk
+The supplier may end services immediately and retain all prepaid amounts.,termination_risk
+The agreement may be cancelled by the provider at its sole discretion without compensation.,termination_risk
+Either party may terminate this agreement by giving thirty days written notice.,no_apparent_risk
+A party may terminate for material breach if the breach remains uncured for thirty days after written notice.,no_apparent_risk
+This agreement expires on the date stated in the order form unless renewed by both parties.,no_apparent_risk
+The customer may cancel the subscription at the end of the current billing period.,no_apparent_risk
+Termination notices must be provided in writing to the other party.,no_apparent_risk
+The supplier's liability shall be unlimited for any direct or indirect damages.,liability_risk
+The customer waives all rights to recover damages regardless of the provider's conduct.,liability_risk
+"One party shall be liable for all losses of any kind, including consequential and punitive damages, without a cap.",liability_risk
+"The provider excludes all responsibility for any loss, even where caused by its negligence.",liability_risk
+The contract makes the customer solely responsible for every loss connected to the service.,liability_risk
+"Each party's total liability is capped at fees paid in the previous twelve months, except for stated exclusions.",no_apparent_risk
+Neither party is liable for indirect damages except as expressly stated in this agreement.,no_apparent_risk
+The parties will discuss claims in good faith and follow the dispute process in this agreement.,no_apparent_risk
+The provider will use reasonable care when delivering the services.,no_apparent_risk
+Each party remains responsible for its own acts and omissions under applicable law.,no_apparent_risk
+"The customer shall indemnify, defend, and hold harmless the provider against all claims of any kind.",indemnity_risk
+"The customer must reimburse the supplier for every loss or legal expense, regardless of fault.",indemnity_risk
+"The client shall protect the company from any claim arising from any use of the services, whether caused by the company or not.",indemnity_risk
+The customer shall indemnify the provider for all third-party claims without limitation.,indemnity_risk
+The company may demand reimbursement for any legal costs at its sole discretion.,indemnity_risk
+Each party shall be responsible for third-party claims to the extent caused by its own negligence or misconduct.,no_apparent_risk
+The parties will cooperate in responding to third-party claims and provide reasonable notice.,no_apparent_risk
+Any indemnification obligation is subject to the limits expressly stated in this agreement.,no_apparent_risk
+Each party will bear its own internal costs unless otherwise agreed in writing.,no_apparent_risk
+The parties shall notify each other promptly of a claim relating to the services.,no_apparent_risk
+The receiving party may disclose confidential information to any third party without permission.,confidentiality_risk
+There is no obligation to protect confidential data shared under this contract.,confidentiality_risk
+The recipient may use confidential information for any purpose and retain it indefinitely.,confidentiality_risk
+The company can publish the other party's private business information without consent.,confidentiality_risk
+Confidential information can be shared with contractors without any confidentiality safeguards.,confidentiality_risk
+Each party shall protect confidential information using reasonable care and disclose it only to authorized personnel.,no_apparent_risk
+Confidentiality obligations do not apply to information already public through no fault of the receiving party.,no_apparent_risk
+"The receiving party shall return or securely destroy confidential information upon written request, subject to legal retention duties.",no_apparent_risk
+Each party must comply with applicable data protection laws when handling personal information.,no_apparent_risk
+Employees who access confidential information must be subject to appropriate confidentiality obligations.,no_apparent_risk
